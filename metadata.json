@@ -1,0 +1,6 @@
+{
+  "name": "TerraPulse Agronomy",
+  "description": "Precision agriculture platform for real-time soil moisture monitoring, weather-driven crop yield prediction, automated mobile irrigation alerts, and full-stack reference architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
